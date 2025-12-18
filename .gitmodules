@@ -1,0 +1,3 @@
+[submodule "lib/hdlc"]
+	path = lib/hdlc
+	url = https://github.com/DaveRichmond/hdlc-rust
